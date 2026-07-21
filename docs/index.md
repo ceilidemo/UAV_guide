@@ -1,6 +1,6 @@
 # Drone & Sensor Platform Guide
 
-> [!WARNING]
+> [HEADS UP!]
 > **FAA REGULATIONS!:** The remote pilot in command must be in possession of a valid **FAA Part 107 certification** and have it printed and on person at all times during flight operations.
 
 ---
