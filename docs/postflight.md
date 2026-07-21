@@ -5,13 +5,13 @@ Once UAV is disarmed:
 * Unplug the lidar.
 * Plug in ethernet cables once again and connect to the computer.
 * **Open Hyperspec III:** go to **“Capture”** and click **STOP**.
-* **Open Batch Processing (Collect Data from VNIR – Nano HP):**
+* **Open Batch Processing** (Collect Data from VNIR – Nano HP):
     * Select **“FTP: Download Folders”** from the dropdown menu in the flight panel.
     * Press **“process flight”**.
     * Enter the login credentials:
         * **Host:** `10.0.65.50`
         * **Username:** `hpi`
-        * **Password:** `HeadwallnHP490` *(numbers are the serial number)*
+        * **Password:** `HeadwallnHP220` *(numbers are the serial number)*
     * Press the browse button and select a local folder for the downloaded data to go.
     * Select the folders that you want to download and press **“Download selected folders”**.
     * Exit batch processing! Your data should be in the selected folder.
@@ -31,5 +31,9 @@ Once UAV is disarmed:
 * Disconnect the battery from the UAV.
 * Unscrew the antennas.
 * Fold down all attachments and fold in the arms and blades. Replace the protective covers on the blades.
+
 * **Tada!** Make sure everything is put away in its assigned location and clean.
+
 * Take back and charge all equipment 😊
+
+Congrats, you have flown a drone... hopefully. 
