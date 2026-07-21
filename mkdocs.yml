@@ -1,0 +1,44 @@
+site_name: Drone & Sensor Platform Guide
+site_description: Comprehensive operational and calibration guides for uncrewed aerial systems.
+site_author: Ceili A. DeMarais
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: teal
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: teal
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.sections
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+
+nav:
+  - Home: index.md
+  - 1. Charging: charging.md
+  - 2. Pre-Flight Planning: planning.md
+  - 3. Setup & Calibration: setup.md
+  - 4. Flight Execution: flight.md
+  - 5. Post-Flight Procedures: postflight.md
