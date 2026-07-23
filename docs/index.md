@@ -16,6 +16,8 @@
     * **Max Wind:** 30 mph = 25 knots = 45 km/h (verify via app)
     * **Max Altitude:** 400 ft AGL = 120 m AGL
 
+* In the field the computer may have trouble connecting if it is too hot. Helpful tips to combat this include staying in the shade with the laptop, sitting in the car with it with AC blasting while drone is setup outside the car, or wetting a bandana and cooling that way. If computer shuts down completely, you can force a reset by pressing and holding the power button for about 30 seconds. 
+
 ---
 
 ## Instrument Specs

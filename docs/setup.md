@@ -59,7 +59,7 @@ Once at the field site:
     * Adjust the plan as needed (including launch, tarps, flight lines, etc.).
     * Save plan and click **upload to UAV** (should appear at the top of the screen if you are connected via carrier link. After pressing it you will see a green progress bar).
 * Once uploaded: Disconnect the laptop, remove both ethernet cables.
-* Connect the lidar cable (white) to the VNIR port.
+* Connect the **lidar cable** (white) to the VNIR port!
 * **Turn on the controller:**
     * Press the power/lock button (top center) and let it turn on.
     * Press & hold the left **DISARM** button for a few seconds to power on NAVBAY, you will hear a beep.
@@ -75,3 +75,4 @@ Once at the field site:
     * Enter correct flight specs (speed, altitude) if they have changed.
     * After changing anything, re-upload the plan to the UAV.
 * Remove the lidar and spec covers.
+* *If you move locations after you connect the GPS, you way need to reset it. You will get an error that operator location is not set on the controller - go into GNSS and reconnect.*

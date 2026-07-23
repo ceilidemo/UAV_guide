@@ -11,7 +11,7 @@ Once UAV is disarmed:
     * Enter the login credentials:
         * **Host:** `10.0.65.50`
         * **Username:** `hpi`
-        * **Password:** `HeadwallnHP220` *(numbers are the serial number)*
+        * **Password:** `HeadwallnHP940` *(login info is on the sensor)*
     * Press the browse button and select a local folder for the downloaded data to go.
     * Select the folders that you want to download and press **“Download selected folders”**.
     * Exit batch processing! Your data should be in the selected folder.
